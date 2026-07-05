@@ -1,4 +1,156 @@
+<!-- ======================== ABOUT ======================== -->
 
+<h2 align="center">💛 About Me</h2>
+
+<table>
+<tr>
+
+<td width="60%">
+
+### 👩‍💻 Hello there!
+
+I'm **Simran Jaiswal**, a **Software Developer at Optum** passionate about building scalable web applications and AI-powered solutions.
+
+✨ I enjoy solving real-world problems using modern technologies while constantly exploring the latest advancements in AI.
+
+#### 🚀 Currently Working On
+
+- 🤖 AI Agents
+- 🧠 Generative AI Applications
+- ⚛️ React & Next.js
+- 🌐 Enterprise Web Applications
+- ☁️ Cloud-based Solutions
+
+#### 🌱 Currently Learning
+
+- LangGraph
+- Model Context Protocol (MCP)
+- RAG Pipelines
+- Multi-Agent Systems
+- System Design
+
+</td>
+
+<td width="40%">
+
+```yaml
+Name: Simran Jaiswal
+
+Role: Software Developer
+
+Company: Optum
+
+Location: India 🇮🇳
+
+Experience:
+  - Full Stack Development
+  - AI Engineering
+  - Enterprise Applications
+
+Interests:
+  - AI Agents
+  - GenAI
+  - React
+  - Next.js
+  - Node.js
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<h2 align="center">⚡ Tech Stack</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,express,mongodb,postgres,prisma,redux,tailwind,materialui,docker,aws,git,github,vscode,vercel"/>
+
+</p>
+
+---
+
+<h2 align="center">🚀 What I Love Building</h2>
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🤖 AI
+
+AI Agents
+
+LLMs
+
+Automation
+
+Prompt Engineering
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 Full Stack
+
+React
+
+Next.js
+
+Node.js
+
+REST APIs
+
+</td>
+
+<td align="center" width="33%">
+
+### ☁ Cloud
+
+AWS
+
+Docker
+
+CI/CD
+
+Performance
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">📌 Current Focus</h2>
+
+```text
+██████████████████████████░░ AI Agents
+
+██████████████████████░░░░░ React & Next.js
+
+████████████████████░░░░░░░ Node.js
+
+██████████████████░░░░░░░░░ Cloud & AWS
+
+████████████████░░░░░░░░░░░ System Design
+```
+
+---
+
+<div align="center">
+
+### 💡 Developer Philosophy
+
+> **Building software that is scalable, intelligent, and impactful.**
+
+</div>
+
+---
 <p align="center">
 
 Full Stack Developer • AI Engineer
