@@ -150,78 +150,6 @@ Performance
 
 </div>
 
----
-<p align="center">
-
-Full Stack Developer • AI Engineer
-
-</p>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=FDD835&center=true&vCenter=true&width=800&lines=Building+Scalable+Applications;AI+Agents;GenAI+Applications;React+%7C+Next.js+%7C+Node.js;Always+Learning+🚀"/>
-
-</p>
-
----
-
-## 💫 About Me
-
-```typescript
-const simran = {
-
-company: "Optum",
-
-role: "Software Developer",
-
-location: "India",
-
-experience: "Full Stack Development",
-
-workingOn: [
-
-"AI Agents",
-
-"GenAI",
-
-"React",
-
-"Next.js",
-
-"Node.js"
-
-],
-
-currentlyLearning: [
-
-"Advanced AI Agents",
-
-"LLMs",
-
-"System Design"
-
-],
-
-funFact:
-
-"I love combining AI with modern web technologies."
-
-}
-```
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,mongodb,postgres,prisma,redux,tailwind,materialui,docker,git,github,aws,vscode"/>
-
-</p>
-
----
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFD54F&height=2"/>
-
 # 🚀 What I Do
 
 <table>
@@ -276,16 +204,6 @@ funFact:
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=simran-jaiswal&theme=algolia&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -293,20 +211,6 @@ funFact:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=simran-jaiswal&theme=github-compact&bg_color=0D1117&color=FFD54F&line=FFD54F&point=FFFFFF&hide_border=true"/>
 
 </p>
-
----
-
-# ⚡ Current Focus
-
-<div align="center">
-
-| 🚀 Building | 📚 Learning | 🎯 Goal |
-|:-----------|:------------|:---------|
-| AI Agents | Advanced LLMs | Production AI Systems |
-| Full Stack Apps | System Design | Scalable Architecture |
-| Modern UI | Cloud Technologies | Open Source |
-
-</div>
 
 ---
 
@@ -325,6 +229,11 @@ funFact:
 ✔️ Improving performance and developer experience
 
 ---
+## 🏢 Software Developer — Lifewise MedTech Pvt Ltd.
+
+✔️ Developing scalable React & Next.js applications
+
+✔️ Designing backend APIs using Node.js
 
 # 🧠 Core Skills
 
@@ -341,96 +250,6 @@ funFact:
 
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFD54F&height=2"/>
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 AI Agent Platform
-
-Modern AI agent workflows powered by LLMs and intelligent automation.
-
-**Tech Stack**
-
-`React` `Next.js` `Node.js` `OpenAI`
-
-<a href="https://github.com/simran-jaiswal/YOUR_REPO">
-<img src="https://img.shields.io/badge/View_Project-FFD54F?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 📜 Certificate Platform
-
-Dynamic certificate generation with authentication, payments and automation.
-
-**Tech Stack**
-
-`React` `Node.js` `MongoDB`
-
-<a href="https://github.com/simran-jaiswal/YOUR_REPO">
-<img src="https://img.shields.io/badge/View_Project-FFD54F?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 📊 Admin Dashboard
-
-Enterprise dashboard with analytics, authentication and role-based access.
-
-**Tech Stack**
-
-`React` `Redux` `Material UI`
-
-<a href="https://github.com/simran-jaiswal/YOUR_REPO">
-<img src="https://img.shields.io/badge/View_Project-FFD54F?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🛒 Full Stack MERN App
-
-Modern scalable MERN application with responsive UI.
-
-**Tech Stack**
-
-`MongoDB` `Express` `React` `Node`
-
-<a href="https://github.com/simran-jaiswal/YOUR_REPO">
-<img src="https://img.shields.io/badge/View_Project-FFD54F?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-
-
-
-
-
-
-
-
-
 
 # 📫 Let's Connect
 
