@@ -185,66 +185,6 @@ const simran = {
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=simran-jaiswal&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 AI Agent Platform
-
-Modern AI agent workflows with LLM integration, automation and intelligent task execution.
-
-</td>
-
-<td width="50%">
-
-### ⚛️ React Dashboard
-
-Responsive dashboard built with React, Next.js and modern UI libraries.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🛒 Full Stack MERN Application
-
-Enterprise-ready MERN application with authentication, APIs and database integration.
-
-</td>
-
-<td width="50%">
-
-### 📜 Certificate Management System
-
-Certificate generation platform with payment integration and dynamic workflows.
-
-</td>
-
-</tr>
-
-</table>
-
-> **Tip:** Replace these descriptions with links to your actual pinned repositories once you've pinned them on your GitHub profile.
-
----
-
 # 📚 What I'm Working With
 
 <div align="center">
@@ -274,22 +214,6 @@ Certificate generation platform with payment integration and dynamic workflows.
 
 ---
 
-# 📅 2025 Focus
-
-```text
-██████████████████████░░░░  React & Next.js
-
-████████████████████░░░░░░  AI Agents
-
-██████████████████░░░░░░░░  LLM Applications
-
-████████████████░░░░░░░░░░  Cloud & AWS
-
-███████████████░░░░░░░░░░░  System Design
-```
-
----
-
 # 💡 Developer Philosophy
 
 > **"Great software isn't just about writing code—it's about solving meaningful problems with simplicity, scalability, and continuous learning."**
@@ -309,37 +233,17 @@ Certificate generation platform with payment integration and dynamic workflows.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/simran-jaiswal/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:simranjaiswal1212@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/simran-jaiswal">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-# 💻 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-# 😂 Random Dev Meme
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
 </div>
 
