@@ -1,96 +1,211 @@
-<div align="center">
+<p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:4F8EF7,100:00C9FF&height=280&section=header&text=Simran%20Jaiswal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%40%20Optum%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=60"/>
-
-# 👋 Hi, I'm Simran Jaiswal
-
-### Software Developer @ Optum • Full Stack Developer • AI Engineer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;Developing+AI+Agents;React+%7C+Next.js+%7C+Node.js;GenAI+%7C+LLMs+%7C+Automation;Always+Learning+Something+New+🚀" />
-
-<p>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/simran-jaiswal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="./assets/banner.svg" width="100%"/>
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=simran-jaiswal&style=for-the-badge&color=blueviolet"/>
+<h1 align="center">
+Hi 👋 I'm Simran Jaiswal
+</h1>
 
-</div>
+<h3 align="center">
+
+Software Developer @ Optum
+
+</h3>
+
+<p align="center">
+
+Full Stack Developer • AI Engineer
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=FDD835&center=true&vCenter=true&width=800&lines=Building+Scalable+Applications;AI+Agents;GenAI+Applications;React+%7C+Next.js+%7C+Node.js;Always+Learning+🚀"/>
+
+</p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-```ts
+```typescript
 const simran = {
-    company: "Optum",
-    role: "Software Developer",
 
-    expertise: [
-        "Full Stack Development",
-        "AI Agents",
-        "GenAI Applications",
-        "Modern Web Development"
-    ],
+company: "Optum",
 
-    frontend: [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Redux",
-        "Tailwind CSS",
-        "Material UI"
-    ],
+role: "Software Developer",
 
-    backend: [
-        "Node.js",
-        "Express",
-        "REST APIs"
-    ],
+location: "India",
 
-    databases: [
-        "MongoDB",
-        "PostgreSQL",
-        "Prisma"
-    ],
+experience: "Full Stack Development",
 
-    cloud: [
-        "AWS",
-        "Vercel"
-    ],
+workingOn: [
 
-    currentlyLearning: [
-        "Advanced AI Agents",
-        "LLMs",
-        "System Design"
-    ]
+"AI Agents",
+
+"GenAI",
+
+"React",
+
+"Next.js",
+
+"Node.js"
+
+],
+
+currentlyLearning: [
+
+"Advanced AI Agents",
+
+"LLMs",
+
+"System Design"
+
+],
+
+funFact:
+
+"I love combining AI with modern web technologies."
+
 }
 ```
 
 ---
 
-# 🚀 Tech Stack
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,mongodb,postgres,prisma,redux,tailwind,materialui,docker,git,github,aws,vscode"/>
+
+</p>
+
+---
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFD54F&height=2"/>
+
+# 🚀 What I Do
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 💻 Full Stack Development
+
+- ⚛️ React.js
+- ▲ Next.js
+- 🟢 Node.js
+- 🚀 REST APIs
+- 📱 Responsive UI
+- ⚡ Performance Optimization
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Engineering
+
+- AI Agents
+- LLM Applications
+- Prompt Engineering
+- AI Automation
+- GenAI Solutions
+- Intelligent Workflows
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Dashboard
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=simran-jaiswal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD54F&icon_color=FFD54F"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=simran-jaiswal&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-jaiswal&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD54F"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=simran-jaiswal&theme=algolia&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simran-jaiswal&theme=github-compact&bg_color=0D1117&color=FFD54F&line=FFD54F&point=FFFFFF&hide_border=true"/>
+
+</p>
+
+---
+
+# ⚡ Current Focus
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,express,mongodb,postgres,prisma,redux,tailwind,materialui,docker,aws,git,github,vscode,vercel"/>
+| 🚀 Building | 📚 Learning | 🎯 Goal |
+|:-----------|:------------|:---------|
+| AI Agents | Advanced LLMs | Production AI Systems |
+| Full Stack Apps | System Design | Scalable Architecture |
+| Modern UI | Cloud Technologies | Open Source |
 
 </div>
 
 ---
 
-# 🤖 AI & GenAI
+# 💼 Experience
+
+## 🏢 Software Developer — Optum
+
+✔️ Building enterprise healthcare applications
+
+✔️ Developing scalable React & Next.js applications
+
+✔️ Designing backend APIs using Node.js
+
+✔️ Working on AI-powered solutions & AI Agents
+
+✔️ Improving performance and developer experience
+
+---
+
+# 🧠 Core Skills
+
+<div align="center">
+
+| Frontend | Backend | Database | AI | Cloud |
+|-----------|-----------|-----------|-----------|-----------|
+| React | Node.js | MongoDB | AI Agents | AWS |
+| Next.js | Express | PostgreSQL | GenAI | Vercel |
+| Redux | REST APIs | Prisma | LLMs | GitHub Actions |
+| TypeScript | Authentication | SQL | Automation | Docker |
+
+</div>
+
+---
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FFD54F&height=2"/>
+
+# 🚀 Featured Projects
 
 <table>
 
@@ -98,26 +213,69 @@ const simran = {
 
 <td width="50%">
 
-### 🚀 Currently Working On
+### 🤖 AI Agent Platform
 
-- 🤖 AI Agents
-- 🧠 LLM Applications
-- ⚡ GenAI Solutions
-- 🔄 Intelligent Automation
-- 🌐 Modern Web Applications
+Modern AI agent workflows powered by LLMs and intelligent automation.
+
+**Tech Stack**
+
+`React` `Next.js` `Node.js` `OpenAI`
+
+<a href="https://github.com/simran-jaiswal/YOUR_REPO">
+<img src="https://img.shields.io/badge/View_Project-FFD54F?style=for-the-badge"/>
+</a>
 
 </td>
 
 <td width="50%">
 
-### 💡 Interests
+### 📜 Certificate Platform
 
-- Agentic AI
-- Prompt Engineering
-- Scalable Architectures
-- Performance Optimization
-- Clean Code
-- Developer Experience
+Dynamic certificate generation with authentication, payments and automation.
+
+**Tech Stack**
+
+`React` `Node.js` `MongoDB`
+
+<a href="https://github.com/simran-jaiswal/YOUR_REPO">
+<img src="https://img.shields.io/badge/View_Project-FFD54F?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📊 Admin Dashboard
+
+Enterprise dashboard with analytics, authentication and role-based access.
+
+**Tech Stack**
+
+`React` `Redux` `Material UI`
+
+<a href="https://github.com/simran-jaiswal/YOUR_REPO">
+<img src="https://img.shields.io/badge/View_Project-FFD54F?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🛒 Full Stack MERN App
+
+Modern scalable MERN application with responsive UI.
+
+**Tech Stack**
+
+`MongoDB` `Express` `React` `Node`
+
+<a href="https://github.com/simran-jaiswal/YOUR_REPO">
+<img src="https://img.shields.io/badge/View_Project-FFD54F?style=for-the-badge"/>
+</a>
 
 </td>
 
@@ -127,134 +285,58 @@ const simran = {
 
 ---
 
-# 💼 Experience
-
-### 🏢 Software Developer — Optum
-
-- 💻 Building enterprise-grade applications
-- ⚛️ Developing scalable React & Next.js applications
-- 🤖 Working on AI-powered solutions and AI agents
-- ☁️ Developing secure backend services
-- 🚀 Optimizing application performance
-
----
-
-# 🌱 Currently Exploring
-
-- AI Agents
-- LLM Applications
-- Retrieval-Augmented Generation (RAG)
-- MCP (if applicable)
-- LangGraph (if applicable)
-- Cloud-native architectures
-
----
-
-# ⚡ Fun Fact
-
-> I enjoy building products that combine **AI** with **great user experiences**, turning complex workflows into simple, intuitive solutions.
-
----
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=simran-jaiswal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=simran-jaiswal&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simran-jaiswal&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=simran-jaiswal&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 📚 What I'm Working With
-
-<div align="center">
-
-| Frontend | Backend | Database | AI | Cloud |
-|----------|----------|----------|----------|----------|
-| React | Node.js | MongoDB | AI Agents | AWS |
-| Next.js | Express | PostgreSQL | GenAI | Vercel |
-| TypeScript | REST APIs | Prisma | LLMs | GitHub Actions |
-| Redux | Authentication | SQL | Prompt Engineering | Docker |
-
-</div>
-
----
-
-# 📌 Current Goals
-
-🎯 Build production-ready AI applications
-
-🎯 Explore advanced AI agent architectures
-
-🎯 Contribute to open source
-
-🎯 Improve system design skills
-
-🎯 Build scalable full-stack products
-
----
-
-# 💡 Developer Philosophy
-
-> **"Great software isn't just about writing code—it's about solving meaningful problems with simplicity, scalability, and continuous learning."**
-
----
----
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/simran-jaiswal/simran-jaiswal/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-# 🌍 Let's Connect
+# 📫 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/simran-jaiswal/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-FFD54F?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
+
+&nbsp;
 
 <a href="mailto:simranjaiswal1212@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FFD54F?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
+&nbsp;
+
 <a href="https://github.com/simran-jaiswal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-FFD54F?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-# ☕ Thanks for Visiting!
+# 📈 Profile Metrics
 
 <div align="center">
 
-### ⭐ If you like my work, consider starring my repositories!
+<img src="https://komarev.com/ghpvc/?username=simran-jaiswal&style=for-the-badge&color=yellow"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
+<img src="https://img.shields.io/github/followers/simran-jaiswal?style=for-the-badge&color=yellow"/>
+
+<img src="https://img.shields.io/github/stars/simran-jaiswal?style=for-the-badge&color=yellow"/>
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> **"Build with purpose. Learn continuously. Ship with confidence."**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD54F,100:F9A825&height=120&section=footer"/>
 
 </div>
