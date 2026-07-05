@@ -1,24 +1,3 @@
-<p align="center">
-
-<img src="./assets/banner.svg" width="100%"/>
-
-</p>
-
-<h1 align="center">
-Hi 👋 I'm Simran Jaiswal
-</h1>
-
-<h3 align="center">
-
-Software Developer @ Optum
-
-</h3>
-
-<p align="center">
-
-Full Stack Developer • AI Engineer
-
-</p>
 
 <p align="center">
 
