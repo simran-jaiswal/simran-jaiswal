@@ -284,7 +284,17 @@ Modern scalable MERN application with responsive UI.
 </table>
 
 ---
+---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/simran-jaiswal/simran-jaiswal/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
 # 📫 Let's Connect
 
 <div align="center">
